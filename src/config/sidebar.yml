@@ -18,7 +18,7 @@
         link: "/git/contents"
       - label: "Further reading"
         link: "/git/further-reading"
-- label: HTML
+- label: PYTHON FUNDAMENTALS
   items:
       - label: "Introduction"
         link: "/html/introduction"
